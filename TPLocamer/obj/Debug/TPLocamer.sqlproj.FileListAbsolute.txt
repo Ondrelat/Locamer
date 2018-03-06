@@ -1,0 +1,5 @@
+C:\Users\clarin.charles\Desktop\TPLocamer\TPLocamer\bin\Debug\TPLocamer.dacpac
+C:\Users\clarin.charles\Desktop\TPLocamer\TPLocamer\bin\Debug\TPLocamer.dll
+C:\Users\clarin.charles\Desktop\TPLocamer\TPLocamer\bin\Debug\TPLocamer.pdb
+C:\Users\clarin.charles\Desktop\TPLocamer\TPLocamer\obj\Debug\TPLocamer.dll
+C:\Users\clarin.charles\Desktop\TPLocamer\TPLocamer\obj\Debug\TPLocamer.pdb

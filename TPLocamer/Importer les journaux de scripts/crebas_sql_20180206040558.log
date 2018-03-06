@@ -1,0 +1,13 @@
+06/02/2018 17:05:58	Ce journal contient des informations sur l'importation du script 'crebas.sql' dans le projet 'TPLocamer' sur l'ordinateur 'R20916' par l'utilisateur 'clarin.charles.
+06/02/2018 17:05:58	Début de l'importation du fichier : C:\Users\clarin.charles\Desktop\crebas.sql 
+06/02/2018 17:05:58	Nom de fichier C:\Users\clarin.charles\Desktop\crebas.sql (taille : 12337)
+06/02/2018 17:05:58	Analyse du script d'importation
+06/02/2018 17:05:59	Nombre total de lots dans le script : 44
+06/02/2018 17:05:59	Nombre total d'instructions dans le script : 22
+06/02/2018 17:05:59	Le script a été correctement importé dans le projet.
+06/02/2018 17:05:59	Analyse des objets de schéma...
+06/02/2018 17:05:59	Analyse du projet à la recherche des éléments en double
+06/02/2018 17:05:59	Fin du traitement des éléments en double
+06/02/2018 17:05:59	Dans le script que vous avez fourni à l'opération d'importation, une ou plusieurs instructions n'ont pas été totalement comprises. Elles ont été déplacées vers le fichier ScriptsIgnoredOnImport.sql. Pour plus d'informations, examinez le contenu du fichier.
+06/02/2018 17:05:59	Un résumé de l'opération d'importation a été enregistré à l'emplacement suivant : C:\Users\clarin.charles\Desktop\TPLocamer\TPLocamer\Importer les journaux de scripts\crebas_sql_20180206040558.log.
+06/02/2018 17:05:59	Cliquez sur Terminer pour continuer...

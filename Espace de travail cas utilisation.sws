@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="12.5.0.2169"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{6CDB3868-DF35-46F6-AA40-CB508A6B487B}" Loaded="No" Name="ModeleOrienteObjet_Locamer" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ModeleOrienteObjet_Locamer.moo"/>
+		<Model Expanded="Yes" ID="{9475F0F0-64D4-45FD-BCF2-DF8515F21E98}" Loaded="No" Name="ModeleOrienteObjet_Locamer" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ModeleOrienteObjet_Locamercasutilisation.moo"/>
+		<Model Expanded="Yes" ID="{6CDB3868-DF35-46F6-AA40-CB508A6B487B}" Name="ModeleOrienteObjet_Locamer" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ModeleOrienteObjet_Locamer.moo"/>
+		<Model Expanded="Yes" ID="{72EE5C20-85ED-4AC2-AEBD-43E20428D7C7}" Name="ModeleOrienteObjet_Locamer" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../ModeleOrienteObjet_Locamer.mpd"/>
+		<Model Expanded="Yes" ID="{9475F0F0-64D4-45FD-BCF2-DF8515F21E98}" Name="ModeleOrienteObjet_Locamer" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="ModeleOrienteObjet_Locamercasutilisation.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
